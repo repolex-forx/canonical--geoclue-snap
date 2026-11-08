@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/geoclue-snap/commit/6ff985197bdb75a0f395e1ba5268330c36ea3fb0",
       "git:hexsha": "6ff985197bdb75a0f395e1ba5268330c36ea3fb0",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "desktop-26-latest"
     }
   ]
