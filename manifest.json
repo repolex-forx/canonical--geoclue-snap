@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "canonical",
+  "repo": "geoclue-snap",
+  "versions": [
+    {
+      "commit": "6ff985197bdb75a0f395e1ba5268330c36ea3fb0",
+      "parsed_at": "2026-11-08T19:07:16.059468+00:00",
+      "tag": "desktop-26-latest",
+      "filetree": "filetree/6ff985197bdb75a0f395e1ba5268330c36ea3fb0.nq.gz",
+      "blobs": [
+        "blob/2051c072ac41adc0af5ca2e4de138e337d407737.nq.gz",
+        "blob/0996503f4ef50254f961a69d3632723a29dd35ce.nq.gz",
+        "blob/da4deec49e2a08bc77f33ac5398c5fbd5e633c5c.nq.gz",
+        "blob/41fa68dfe185a59d116817d7cdde5529aa45a2a0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
